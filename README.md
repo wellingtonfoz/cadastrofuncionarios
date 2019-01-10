@@ -1,6 +1,6 @@
 # Cadastro de Funcionários
 
-Projeto completo desenvolvido no decorrer de aulas as quais lecionei no IFPR - Instituto Federal do Paraná (Campus Foz do Iguaçu), na disciplina "Desenvolvimento Web III".
+#### **Projeto completo desenvolvido em aulas, as quais lecionei no IFPR - Instituto Federal do Paraná (Campus Foz do Iguaçu), na disciplina "Desenvolvimento Web III" para a Graduação em Análise em Desenvolvimento de Sistemas.** ####
 
 •	Páginas dinâmicas com: Java Server Pages (JSP);
 
